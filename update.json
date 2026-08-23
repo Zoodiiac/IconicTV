@@ -1,6 +1,6 @@
 ﻿{
-    "versionCode":  2,
-    "versionName":  "1.0.1",
-    "notes":  "First release with automatic updates. Fixed D-pad focus in category lists.",
-    "apkUrl":  "https://github.com/Zoodiiac/IconicTV/releases/download/v1.0.1/IconicIPTV-FireTV-1.0.1.apk"
+    "versionCode":  3,
+    "versionName":  "1.0.2",
+    "notes":  "Added accent colour choice in Settings (7 colours). Fixed D-pad focus escaping the category list.",
+    "apkUrl":  "https://github.com/Zoodiiac/IconicTV/releases/download/v1.0.2/IconicIPTV-FireTV-1.0.2.apk"
 }
