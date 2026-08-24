@@ -1,6 +1,6 @@
 ﻿{
-    "versionCode":  5,
-    "versionName":  "1.0.4",
-    "notes":  "Smaller, non-overlapping movie and series posters. Continue watching: movies and series now resume where you left off, including which episode. Hey Forster Fam! We are working on a new version of IconicTV that will be released soon. This version will include improved performance, and more features. Stay tuned for updates!",
-    "apkUrl":  "https://github.com/Zoodiiac/IconicTV/releases/download/v1.0.4/IconicIPTV-FireTV-1.0.4.apk"
+    "versionCode":  6,
+    "versionName":  "1.0.5",
+    "notes":  "Fixed Continue restarting episodes instead of resuming. Faster poster loading and smoother scrolling on large catalogues.",
+    "apkUrl":  "https://github.com/Zoodiiac/IconicTV/releases/download/v1.0.5/IconicIPTV-FireTV-1.0.5.apk"
 }
