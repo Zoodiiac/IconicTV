@@ -1,6 +1,6 @@
 ﻿{
-    "versionCode":  7,
-    "versionName":  "1.0.6",
-    "notes":  "Fixed OK and play/pause not pausing in the player. HELLO FORSTER FAM! CANT WAIT FOR HOLIDAY!!! Wooooooooooooooooooooo",
-    "apkUrl":  "https://github.com/Zoodiiac/IconicTV/releases/download/v1.0.6/IconicIPTV-FireTV-1.0.6.apk"
+    "versionCode":  8,
+    "versionName":  "1.0.7",
+    "notes":  "Pause state now reflects what the player actually did, and says so when a live stream refuses to pause.",
+    "apkUrl":  "https://github.com/Zoodiiac/IconicTV/releases/download/v1.0.7/IconicIPTV-FireTV-1.0.7.apk"
 }
