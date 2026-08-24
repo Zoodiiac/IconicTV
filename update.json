@@ -1,6 +1,6 @@
 ﻿{
-    "versionCode":  4,
-    "versionName":  "1.0.3",
-    "notes":  "Search added to Live TV, Movies and Series. Hello Forster Fam <3",
-    "apkUrl":  "https://github.com/Zoodiiac/IconicTV/releases/download/v1.0.3/IconicIPTV-FireTV-1.0.3.apk"
+    "versionCode":  5,
+    "versionName":  "1.0.4",
+    "notes":  "Smaller, non-overlapping movie and series posters. Continue watching: movies and series now resume where you left off, including which episode. Hey Forster Fam! We are working on a new version of IconicTV that will be released soon. This version will include improved performance, and more features. Stay tuned for updates!",
+    "apkUrl":  "https://github.com/Zoodiiac/IconicTV/releases/download/v1.0.4/IconicIPTV-FireTV-1.0.4.apk"
 }
