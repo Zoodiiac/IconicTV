@@ -1,6 +1,6 @@
 ﻿{
-    "versionCode":  8,
-    "versionName":  "1.0.7",
-    "notes":  "Pause state now reflects what the player actually did, and says so when a live stream refuses to pause.",
-    "apkUrl":  "https://github.com/Zoodiiac/IconicTV/releases/download/v1.0.7/IconicIPTV-FireTV-1.0.7.apk"
+    "versionCode":  9,
+    "versionName":  "1.0.8",
+    "notes":  "Hide and reorder categories: Settings \u003e Manage categories for Live TV, Movies and Series. Might cause issues, will push an update once tested to either remove or fix!",
+    "apkUrl":  "https://github.com/Zoodiiac/IconicTV/releases/download/v1.0.8/IconicIPTV-FireTV-1.0.8.apk"
 }
