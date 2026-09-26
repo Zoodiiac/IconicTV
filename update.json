@@ -1,6 +1,6 @@
 ﻿{
-    "versionCode":  11,
-    "versionName":  "1.1.1",
-    "notes":  "Possible VPN build in just needs testing my end, it wont interupt you guys.. eventually i will have a vpn working so everything is secure etc :D",
-    "apkUrl":  "https://github.com/Zoodiiac/IconicTV/releases/download/v1.1.0/IconicIPTV-FireTV-1.1.0.apk"
+    "versionCode": 16,
+    "versionName": "1.1.5",
+    "notes": "Films now resume properly - the Resume button was hidden off the bottom of the screen. Seeking no longer skips to the next episode, pausing films works again, and your place is kept if the stream drops mid-film. Any issues let Jack know.:D",
+    "apkUrl": "https://github.com/Zoodiiac/IconicTV/releases/download/v1.1.5/IconicIPTV-FireTV-1.1.5.apk"
 }
